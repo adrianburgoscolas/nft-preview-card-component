@@ -54,13 +54,13 @@ Need to keep improving Semantic HTML5 and accessibility.
 
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.org/learn) - This were my first lesson about frontend debelopment I think is a good begining.
+- [freeCodeCamp](https://www.freecodecamp.org/learn) - I taked my first lesson about frontend debelopment from here, I think is a good begining.
 
 ## Author
 
-- freeCodeCamp - [Add your name here](https://www.freecodecamp.org/fcce3ec214d-b0f9-4ddc-b526-34aea3d1e4a3)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adrianburgoscolas)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/adrian-burgos-1776a6144/)
+- freeCodeCamp - [Adrian Burgos](https://www.freecodecamp.org/fcce3ec214d-b0f9-4ddc-b526-34aea3d1e4a3)
+- Frontend Mentor - [@adrianburgoscolas](https://www.frontendmentor.io/profile/adrianburgoscolas)
+- Linkedin - [linkedin.com/in/adrian-burgos-1776a6144](https://www.linkedin.com/in/adrian-burgos-1776a6144/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
