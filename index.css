@@ -17,6 +17,7 @@ body{
     height: 495px;
     padding: 25px;
     border-radius: 15px;
+    box-shadow: 0 25px 50px 0 rgba(0, 0, 0, 0.418);
 }
 .view{
     display: none;
