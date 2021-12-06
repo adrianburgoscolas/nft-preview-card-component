@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adrianburgoscolas/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://adrianburgoscolas.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/adrianburgoscolas/nft-preview-card-component](https://github.com/adrianburgoscolas/nft-preview-card-component)
+- Live Site URL: [https://adrianburgoscolas.github.io/nft-preview-card-component/](https://adrianburgoscolas.github.io/nft-preview-card-component/)
 
 ## My process
 
